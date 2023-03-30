@@ -7,6 +7,8 @@
 <?php
 echo "Hello World!";
 ?>
+  
+  Hello ALL.
 
 </body>
 </html> 
